@@ -1,6 +1,6 @@
 :root {
-  --accent: #ff0173;
-  --accent-2: #b10452;
+  --accent: #ff7042;
+  --accent-2: #ff4a1e;
   --blue-theme: #413e66;
 }
 .text-theme-2 {
@@ -1154,4 +1154,8 @@ h1 {
 .enlace-vacio {
   cursor: pointer !important;
   color: var(--accent) !important;
+}
+
+.imagen-intro-length {
+  width: 1200px;
 }
