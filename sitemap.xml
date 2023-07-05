@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+        <url>
+            <loc>https://overweb.com.co</loc>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+         <url>
+            <loc>https://overweb.com.co/paginas.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.9</priority>
+        </url>
+         <url>
+            <loc>https://overweb.com.co/tiendas.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.9</priority>
+        </url>
+         <url>
+            <loc>https://overweb.com.co/capacitaciones.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+         <url>
+            <loc>https://overweb.com.co/logos.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.6</priority>
+        </url>
+    </urlset>
