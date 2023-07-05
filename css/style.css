@@ -6,6 +6,8 @@
 .text-theme-2 {
   color: var(--blue-theme);
 }
+
+
 .lista {
   list-style: none;
   padding: 0;
@@ -400,7 +402,7 @@ h6 {
 .section-header h3,
 h1 {
   font-size: 36px;
-  color: #413e66;
+  color: #ff7042;
   text-align: center;
   position: relative;
 }
